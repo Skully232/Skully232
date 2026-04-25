@@ -65,16 +65,11 @@ Currently a final-year MCA student at IGNOU.
 
 ## 📫 Connect with me
 
-[
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivamkumars--ai-0077B5?style=flat&logo=linkedin)]
+(https://linkedin.com/in/shivamkumars-ai)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-shivamkumars--ai-0077B5?style=flat&logo=linkedin)
-
-](https://linkedin.com/in/shivamkumars-ai)
-[
-
-![Email](https://img.shields.io/badge/Email-shivam__kumar__s@outlook.com-D14836?style=flat&logo=gmail)
-
-](mailto:shivam_kumar_s@outlook.com)
+[![Email](https://img.shields.io/badge/Email-shivam__kumar__s@outlook.com-D14836?style=flat&logo=gmail)]
+(mailto:shivam_kumar_s@outlook.com)
 
 ---
 
