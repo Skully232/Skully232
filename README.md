@@ -66,9 +66,7 @@ Currently a final-year MCA student at IGNOU.
 ## 📫 Connect with me
 
 [
-
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-shivamkumars--ai-0077B5?style=flat&logo=linkedin)
-
 ]
 
 (https://linkedin.com/in/shivamkumars-ai)
